@@ -3,7 +3,7 @@ Tratamento de dados e Dashboard feitos utilizando apenas o Google Sheets. Essa f
 
 # 📊 Dashboard de Vendas - Produtos Diversos
 
-Este projeto foi desenvolvido no Power BI com o objetivo de analisar as vendas de uma empresa que comercializa diversos tipos de produtos. O dashboard apresenta insights importantes sobre o desempenho comercial e ajuda a identificar padrões e oportunidades de melhoria.
+Este projeto foi desenvolvido no Google Sheets com o objetivo de analisar as vendas de uma empresa que comercializa diversos tipos de produtos. O dashboard apresenta insights importantes sobre o desempenho comercial e ajuda a identificar padrões e oportunidades de melhoria.
 
 ## 🔍 Principais métricas e análises
 
